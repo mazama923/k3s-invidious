@@ -16,7 +16,7 @@ tag: latest-arm64
 Other:
 
 ````yaml
-tag: latest-arm64
+tag: latest
 ````
 
 ## Generation of a random key
