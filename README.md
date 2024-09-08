@@ -3,6 +3,22 @@
 This project is a personal adaptation of [invidious-helm-chart
 ](https://github.com/iv-org/invidious-helm-chart/tree/master/invidious).
 
+## Choose the image for your CPU
+
+Modify the values.yaml file according to your CPU.
+
+For ARM:
+
+````yaml
+tag: latest-arm64
+````
+
+Other:
+
+````yaml
+tag: latest-arm64
+````
+
 ## Generation of a random key
 
 ````bash
